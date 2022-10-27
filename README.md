@@ -1,7 +1,7 @@
-# dubby-serve-profile
-Backend and frontend for Dubby Serve Profile
-
 This project was written with Java 17 and ReactJS. There are no tests written for either FE and/or backend
+
+Download the zip file file and unzip it.
+(To download, simply click on "view raw").
 
 After Project download, please do the following:
 
